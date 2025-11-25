@@ -22,7 +22,7 @@ It focuses on delivering a high-pressure, fast-decision escape experience, empha
 
 ## 🎥 Gameplay Demo
 
-🔗 https://github.com/new-tonAA/ResidentRun-UE5Game/blob/main/Docs/Videos/demo.mp4
+![Demo](Docs/Videos/demo.gif)
 
 
 ## 🕹️ Gameplay Overview
