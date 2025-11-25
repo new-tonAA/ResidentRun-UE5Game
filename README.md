@@ -20,6 +20,11 @@ It focuses on delivering a high-pressure, fast-decision escape experience, empha
 
 ---
 
+## 🎥 Gameplay Demo
+
+🔗 https://github.com/new-tonAA/ResidentRun-UE5Game/blob/main/Docs/Videos/demo.mp4
+
+
 ## 🕹️ Gameplay Overview
 
 You play a university student doing **“campus running practice”**, with one clear goal:  
