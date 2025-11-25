@@ -1,7 +1,0 @@
-*.uasset linguist-vendored
-*.umap   linguist-vendored
-*.dll    linguist-vendored
-*.exe    linguist-vendored
-*.png    linguist-vendored
-*.jpg    linguist-vendored
-*.bin    linguist-vendored
