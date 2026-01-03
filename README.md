@@ -97,7 +97,9 @@ If you need the complete source code, please contact via email.
 
 #### 5.The Game's Musics came from Resident Evil 4 Remake and Silent Hill 2. This Game is not for commercial usage.
 This project is for educational and technical research purposes only.
-All third-party assets are used under their respective licenses.
-Character models and music are not intended for commercial use.
+No part of this project is meant to be distributed commercially or imply endorsement.
+Any resemblance to existing characters, soundtracks, or media is unintentional, and no rights are claimed.
+All third-party assets are used without permission, and all copyrights remain with their respective owners.
+
 
 
